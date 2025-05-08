@@ -1,6 +1,0 @@
-HOW TO EDIT YOUR SITE:
-
-- Open any .html file in a text editor (Notepad, VS Code).
-- Edit text content like your bio, product names, numbers etc.
-- To change images, replace files inside assets/images/ and update file names if needed.
-- After editing, push changes to GitHub repo to update your live site.
